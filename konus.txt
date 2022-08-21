@@ -1,0 +1,7 @@
+Merhaba Bugün Sizlere Layonanın İngilizce Aksanıyla Güzel Bir İngilizce Pyhton Loop Makalesi Okuyacam
+
+Python for loop
+Python is a powerful, general-purpose scripting language intended to be simple to understand and implement. It is free to access because it is open-source. This tutorial will teach us how to use Python for loops, one of the most basic looping instructions in Python programming.
+
+Introduction to for Loop in Python
+In Python, the for loop is often used to iterate over iterable objects such as lists, tuples, or strings. Traversal is the process of iterating across a series. If we have a section of code that we would like to repeat a certain number of times, we employ for loops. The for-loop is usually used on an iterable object such as a list or the in-built range function. The for statement in Python traverses through the elements of a series, running the block of code each time. The for statement is in opposition to the "while" loop, which is employed whenever a condition requires to be verified each repetition or when a piece of code is to be repeated indefinitely.
